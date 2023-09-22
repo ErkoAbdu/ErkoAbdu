@@ -5,18 +5,11 @@ Hello and welcome to my profile! Im currently a student at Humber College for a 
 |Technology| Proficiency|
 |:----------:|:-----------:|
 |HTML|Novice|
-|CSS|Begineer|
+|CSS|Beginner|
 |Javascript|Novice|
-|ASP.NET|Begineer|
+|ASP.NET|Beginner|
 |C#|Beginner|
 |Git|Novice|
-
-- HTML
-- CSS
-- Javascript
-- ASP.NET
-- C#
-- Git
 
 ## How do I get in touch with this amazing web developer? 🤔
 The best place to reach me is through my [LinkedIn](https://www.linkedin.com/in/erko-abdurahman-b74186164/)!
