@@ -1,4 +1,4 @@
-<img src="/images/train.jpg" height="300">
+<img src="/images/train.jpg" height="100">
 
 # Erko Abdurahman
 
