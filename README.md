@@ -1,4 +1,4 @@
-<img src="/ErkoAbdu/images/train.jpg" height="150">
+<img src="ErkoAbdu/images/train.jpg" height="150">
 
 # Erko Abdurahman
 
