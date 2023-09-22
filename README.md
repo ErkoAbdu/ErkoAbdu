@@ -1,4 +1,4 @@
-![T1 Train](/ErkoAbdu/images/train.jpg)
+<img src="/ErkoAbdu/images/train.jpg" height="150">
 
 # Erko Abdurahman
 
