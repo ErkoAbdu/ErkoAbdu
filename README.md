@@ -1,5 +1,3 @@
-<img src="/images/train.jpg" hiehgt="500">
-
 # Erko Abdurahman
 
 Hello and welcome to my profile! Im currently a student at Humber College for a Ontario Post Gaduate program in Web Development. The technologies im learning for now include the following:
@@ -13,6 +11,11 @@ Hello and welcome to my profile! Im currently a student at Humber College for a 
 
 ## How do I get in touch with this amazing web developer? 🤔
 The best place to reach me is through my [LinkedIn](https://www.linkedin.com/in/erko-abdurahman-b74186164/)!
+
+## About me 😎
+Prior to taking my dive into web development I did my undergraduate degree in political science and history at the University of Toronto. Gradually lost interest in the field and found my way to operating trains for the TTC one Line 2 and 3 for about a year and a half before pivoting into web development!
+<img src="/images/train.jpg" hiehgt="500">
+
 
 <!--
 
