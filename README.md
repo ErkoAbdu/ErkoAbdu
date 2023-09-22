@@ -14,6 +14,7 @@ The best place to reach me is through my [LinkedIn](https://www.linkedin.com/in/
 
 ## About me 😎
 Prior to taking my dive into web development I did my undergraduate degree in political science and history at the University of Toronto. Gradually lost interest in the field and found my way to operating trains for the TTC one Line 2 and 3 for about a year and a half before pivoting into web development!
+
 <img src="/images/train.jpg" hiehgt="500">
 
 
