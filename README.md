@@ -5,7 +5,7 @@ Hello and welcome to my profile! Im currently a student at Humber College for a 
 |Technology| Proficiency|
 |:----------:|:-----------:|
 |HTML|Novice|
-|CSS|Beginner|
+|CSS|Novice|
 |Javascript|Novice|
 |ASP.NET|Beginner|
 |C#|Beginner|
