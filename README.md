@@ -1,4 +1,4 @@
-
+<img src="images/train.jpg">
 # Erko Abdurahman
 
 Hello and welcome to my profile! Im currently a student at Humber College for a Ontario Post Gaduate program in Web Development. The technologies im learning for now include the following:
