@@ -1,6 +1,6 @@
 # Erko Abdurahman
 
-Hello and welcome to my profile! Im currently a student at Humber College for a Ontario Post Gaduate program in Web Development. The technologies im learning for now include the following: HTML, CSS, Javascript, ASP.NET, C#
+Hello and welcome to my profile! Im a web developer based outside of Toronto mainly focussing in using Javascript, C#, .NET and React!
 
 ## How do I get in touch with this amazing web developer? 🤔
 The best place to reach me is through my [LinkedIn](https://www.linkedin.com/in/erko-abdurahman-b74186164/)!
